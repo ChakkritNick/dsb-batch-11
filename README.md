@@ -25,6 +25,7 @@ SELECT "hello world" FROM Bootcamp;
 Website: [DataRokie.com](https://datarockie.com)
 
 
-My Image:![deku](https://github.com/user-attachments/assets/ca8e8f4c-a336-4302-8836-d71b9ddf8265)
+My Image:
+![deku](https://github.com/user-attachments/assets/ca8e8f4c-a336-4302-8836-d71b9ddf8265)
 
 Email: chakkritteeranon@gmail.com
