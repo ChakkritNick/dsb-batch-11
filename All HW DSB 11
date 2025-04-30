@@ -1,17 +1,17 @@
-## Data Science Bootcamp Batch 11
+# Data Science Bootcamp Batch 11
 
-Sprint Homework 1 - Google Sheet
+## Sprint Homework 1 - Google Sheet
 
 - Dynamic Query
 - เปลี่ยนวันที่ พ.ศ. <-> ค.ศ.
 - Regular Expression ดึงค่าจากบัตรประชาชน ID Card Parser
 
-Exercise Files
+## Exercise Files
 HW01: (https://docs.google.com/spreadsheets/d/1N_6ngxSoPJL6yTMWd_toxv3ctpL0RQs7Nt3by4AHsTM/edit?usp=sharing)
 
-Sprint 02 - SQL Databases
-- สร้าง REPL บน https://replit.com/
+## Sprint 02 - SQL Databases
 
+- สร้าง REPL บน https://replit.com/
 - ออกแบบ restaurant databases มีอย่างน้อย 5 tables
 - เขียน SELECT WITH หรือใช้ subqueries
 
