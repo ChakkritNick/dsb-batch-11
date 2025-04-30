@@ -73,13 +73,6 @@ HW10 Looker: https://lookerstudio.google.com/reporting/0fdac51c-1023-43f3-aaf4-5
 
 HW10 Tableau: https://public.tableau.com/authoring/ReportofStudentGrading/Dashboard1#1
 
-I love `R programming`. (in line code)
-
-## Code Block
-```sql
-SELECT "hello world" FROM Bootcamp;
-```
-
 ## Contact Information
 Website: https://chakkritnick.wordpress.com
 
