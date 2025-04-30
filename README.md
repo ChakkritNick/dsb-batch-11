@@ -3,7 +3,24 @@ Data Science Bootcamp Projects
 
 This bootcamp runs about 4 months, 10 sprints.
 
-- Google Sheets
+## Sprint 01 - Google Sheets
+
+- Dynamic Query
+- เปลี่ยนวันที่ พ.ศ. <-> ค.ศ.
+- Regular Expression ดึงค่าจากบัตรประชาชน ID Card Parser
+
+## Exercise File
+HW01: https://docs.google.com/spreadsheets/d/1N_6ngxSoPJL6yTMWd_toxv3ctpL0RQs7Nt3by4AHsTM/edit?usp=sharing
+
+## Sprint 02 - SQL Databases
+
+- สร้าง REPL บน https://replit.com/
+- ออกแบบ restaurant databases มีอย่างน้อย 5 tables
+- เขียน SELECT WITH หรือใช้ subqueries
+
+## Exercise File
+HW02: https://docs.google.com/spreadsheets/d/1N_6ngxSoPJL6yTMWd_toxv3ctpL0RQs7Nt3by4AHsTM/edit?usp=sharing
+
 - Database
 - R Programming
 - Data Transfromation
