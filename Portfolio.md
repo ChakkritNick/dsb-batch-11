@@ -45,7 +45,7 @@ HW06 Basic stats Part1: https://chakkritnick.wordpress.com/2025/02/02/10-idea-fr
 
 HW06 Basic stats Part2: https://chakkritnick.wordpress.com/2025/02/02/10-ideas-from-basic-stats-part-2/
 
-HW06 Linear Regression: 
+HW06 Linear Regression: https://docs.google.com/spreadsheets/d/1TMdeLlez5aGIn2V__dPvo7h1_92O1MZoXCTR-GI4d4A/edit?usp=sharing
 
 HW06 AB test: https://docs.google.com/spreadsheets/d/1s2cgpckApzBGQUsDgP8KhaHSrUTNydDYs0mt_pzo3Ew/edit?usp=sharing
 
