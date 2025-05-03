@@ -64,7 +64,6 @@ HW08: https://colab.research.google.com/drive/17ibTX_idEDMBm6vZk7SjllhIOfCE10dK?
 
 ## Sprint 09 - Essential Python for Data Analyst
 - ทำการบ้านในคอร์ส pandas foundation
-- ลองเขียน requests ดึงข้อมูลจาก public API
 - ลองสร้าง simple ML model ด้วย sklearn
 
 ## Sprint 10 - Dashboard
