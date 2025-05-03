@@ -54,6 +54,8 @@ HW06 AB test: https://docs.google.com/spreadsheets/d/1s2cgpckApzBGQUsDgP8KhaHSrU
 - Classification
 - K-Fold cross validation
 
+HW07: https://bony-wednesday-849.notion.site/Machine-Learning-1e79f14b25e680cfb467fa818b1ab15a?pvs=4
+
 ## Sprint 08 - Python Programming
 - เขียน class ATM อย่างน้อย 5 methods
 - find public API
