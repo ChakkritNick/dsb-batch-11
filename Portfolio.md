@@ -66,6 +66,9 @@ HW08: https://colab.research.google.com/drive/17ibTX_idEDMBm6vZk7SjllhIOfCE10dK?
 - ทำการบ้านในคอร์ส pandas foundation
 - ลองสร้าง simple ML model ด้วย sklearn
 
+HW09: https://datalore.jetbrains.com/notebook/6IqIVYNCswbArRIVa0iPfr/aQ0MPB0wWHekbP9aAJ7OVG
+HW09: 
+
 ## Sprint 10 - Dashboard
 - สร้าง dashboard ด้วย Looker Studio (Former Data Studio)
 - สร้าง dashboard ด้วย Tableau Public
