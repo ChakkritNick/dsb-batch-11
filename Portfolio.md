@@ -38,12 +38,15 @@ HW05 FreeFire vs PUBG: https://docs.google.com/spreadsheets/d/1aevqoAVPX2ytSmNEo
 
 ## Sprint 06 - Essential Statistics
 - สรุปเนื้อหา
+- ทำการบ้าน titanic ใน on demand video ด้วย R
 - ลองสร้างโมเดล linear regression ใน Excel/ Google Sheets
 - วิเคราะห์ข้อมูลด้วย AB test ง่ายๆใน Excel/ Google Sheets
 
 HW06 Basic stats Part1: https://chakkritnick.wordpress.com/2025/02/02/10-idea-from-basic-stats/
 
 HW06 Basic stats Part2: https://chakkritnick.wordpress.com/2025/02/02/10-ideas-from-basic-stats-part-2/
+
+HW06 Titanic: https://bony-wednesday-849.notion.site/Titanic-1eb9f14b25e6809fb08ace1d50d2b549?pvs=4
 
 HW06 Linear Regression: https://docs.google.com/spreadsheets/d/1TMdeLlez5aGIn2V__dPvo7h1_92O1MZoXCTR-GI4d4A/edit?usp=sharing
 
@@ -66,8 +69,8 @@ HW08: https://colab.research.google.com/drive/17ibTX_idEDMBm6vZk7SjllhIOfCE10dK?
 - ทำการบ้านในคอร์ส pandas foundation
 - ลองสร้าง simple ML model ด้วย sklearn
 
-HW09: https://datalore.jetbrains.com/notebook/6IqIVYNCswbArRIVa0iPfr/aQ0MPB0wWHekbP9aAJ7OVG
-HW09: https://colab.research.google.com/drive/1PQXEz4JJOx03Y0EgZHaZ-hEmU4iuquVx?usp=sharing
+HW09 final project: https://datalore.jetbrains.com/notebook/6IqIVYNCswbArRIVa0iPfr/aQ0MPB0wWHekbP9aAJ7OVG
+HW09 simple ML model ด้วย sklearn: https://colab.research.google.com/drive/1PQXEz4JJOx03Y0EgZHaZ-hEmU4iuquVx?usp=sharing
 
 ## Sprint 10 - Dashboard
 - สร้าง dashboard ด้วย Looker Studio (Former Data Studio)
@@ -80,4 +83,4 @@ HW10 Tableau: https://public.tableau.com/authoring/ReportofStudentGrading/Dashbo
 ## Contact Information
 Website: https://chakkritnick.wordpress.com
 
-Email: chakkritteeranon@gmail.com
+Email: chakkrittheeranon@gmail.com
